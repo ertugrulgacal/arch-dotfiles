@@ -1,4 +1,6 @@
 if status is-interactive
-  neofetch  
+  neofetch
+
+  pyenv init - | source
   # Commands to run in interactive sessions can go here
 end
