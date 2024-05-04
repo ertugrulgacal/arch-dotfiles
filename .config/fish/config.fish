@@ -1,5 +1,5 @@
 if status is-interactive
-  neofetch
+  fastfetch
 
   pyenv init - | source
   # Commands to run in interactive sessions can go here
